@@ -1,0 +1,14 @@
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\bin\Debug\net8.0\QuartosAlugados.exe
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\bin\Debug\net8.0\QuartosAlugados.deps.json
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\bin\Debug\net8.0\QuartosAlugados.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\bin\Debug\net8.0\QuartosAlugados.dll
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\bin\Debug\net8.0\QuartosAlugados.pdb
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.dll
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\refint\QuartosAlugados.dll
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.pdb
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\QuartosAlugados.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\Estudos C#\QuartosAlugados\QuartosAlugados\obj\Debug\net8.0\ref\QuartosAlugados.dll
