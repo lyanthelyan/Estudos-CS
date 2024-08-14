@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\bin\Debug\net8.0\Enums_01.exe
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\bin\Debug\net8.0\Enums_01.deps.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\bin\Debug\net8.0\Enums_01.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\bin\Debug\net8.0\Enums_01.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\bin\Debug\net8.0\Enums_01.pdb
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.sourcelink.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\refint\Enums_01.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.pdb
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\Enums_01.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Enums\Enums_01\obj\Debug\net8.0\ref\Enums_01.dll
