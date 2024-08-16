@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderStudy.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderStudy.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderStudy.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderStudy.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\bin\Debug\net8.0\StringBuilderStudy.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\refint\StringBuilderStudy.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilderStudy.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\ref\StringBuilderStudy.dll

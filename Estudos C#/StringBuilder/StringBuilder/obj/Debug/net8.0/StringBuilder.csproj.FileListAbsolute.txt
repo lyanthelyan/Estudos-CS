@@ -1,0 +1,5 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\StringBuilder\StringBuilder\obj\Debug\net8.0\StringBuilder.sourcelink.json
