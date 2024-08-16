@@ -6,6 +6,7 @@ class Program
 {
     private static void Main(string[] args)
     {
+        //Worker Data
         Console.Write("Enter department's name: ");
         string deptName = Console.ReadLine();
         
