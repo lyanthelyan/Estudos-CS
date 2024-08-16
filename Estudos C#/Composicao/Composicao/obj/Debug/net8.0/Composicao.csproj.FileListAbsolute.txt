@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.exe
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.deps.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\bin\Debug\net8.0\Composicao.pdb
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.sourcelink.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\refint\Composicao.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.pdb
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\Composicao.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\Estudos C#\Composicao\Composicao\obj\Debug\net8.0\ref\Composicao.dll
