@@ -43,8 +43,15 @@ class Program
             HourContract contract = new HourContract(date, valuePerHour, hours); 
             worker.AddContract(contract); // Adding the hour contract to the Worker
         }
+        Console.WriteLine();
 
-        
+        Console.Write("Enter month and year to calculate income (MM/YYYY): ");
+        string monthAndYear = Console.ReadLine();
+        int month = int.Parse(monthAndYear.Substring(0, 2));
+        int year = int.Parse(monthAndYear.Substring(3));
+
+        Console.WriteLine($" Name: {worker.Name}\n Department: {worker.Department.Name}\n Income for {monthAndYear}: {worker.Income(year,month).ToString("F2", CultureInfo.InvariantCulture)} ");
+
     }
     
 }
