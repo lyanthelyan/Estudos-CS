@@ -44,11 +44,43 @@ class Program
             worker.AddContract(contract); // Adding the hour contract to the Worker
         }
         Console.WriteLine();
+        
+   
 
         Console.Write("Enter month and year to calculate income (MM/YYYY): ");
         string monthAndYear = Console.ReadLine();
         int month = int.Parse(monthAndYear.Substring(0, 2));
         int year = int.Parse(monthAndYear.Substring(3));
+
+        for (int i = 0; i < worker.Contracts.Count; i++)
+        {
+            Console.WriteLine($"Contract {i + 1}: {worker.Contracts[i].Date.ToString("dd/MM/yyyy", CultureInfo.InvariantCulture)}");
+        }
+        // Loop para remover contratos
+        for (int i = 0; i < worker.Contracts.Count; i++)
+        {
+            Console.Write("Enter the number of the contract to remove: ");
+            int choose = int.Parse(Console.ReadLine()) - 1; // Se o usuario escolher a posição 2, ela irá para a 1 usando a poisção certa da lista
+
+            // Verificar se o índice está dentro dos limites válidos
+            if (choose >= 0 && choose < worker.Contracts.Count)
+            {
+                worker.RemoveContract(worker.Contracts[choose]);
+                Console.WriteLine("Contract removed successfully.");
+                Console.WriteLine();
+                // Opcional: Exibir contratos restantes
+                Console.WriteLine("Remaining contracts:");
+                for (int j = 1; j < worker.Contracts.Count; j++)
+                {
+                    Console.WriteLine($"Contract {j + 1}: {worker.Contracts[j].Date}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Invalid contract number.");
+            }
+        }
+        Console.WriteLine();
 
         Console.WriteLine($" Name: {worker.Name}\n Department: {worker.Department.Name}\n Income for {monthAndYear}: {worker.Income(year,month).ToString("F2", CultureInfo.InvariantCulture)} ");
 
