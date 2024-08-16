@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.sourcelink.json
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\Estudos-CS\LogicaProg\Fibonacci\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll
