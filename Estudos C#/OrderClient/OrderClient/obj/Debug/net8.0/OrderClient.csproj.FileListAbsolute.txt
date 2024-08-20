@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\bin\Debug\net8.0\OrderClient.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\bin\Debug\net8.0\OrderClient.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\bin\Debug\net8.0\OrderClient.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\bin\Debug\net8.0\OrderClient.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\bin\Debug\net8.0\OrderClient.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\refint\OrderClient.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\OrderClient.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\OrderClient\OrderClient\obj\Debug\net8.0\ref\OrderClient.dll

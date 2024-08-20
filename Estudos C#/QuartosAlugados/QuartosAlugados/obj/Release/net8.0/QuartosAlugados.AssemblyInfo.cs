@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuartosAlugados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85e9190463b9f01410283b43dc35cdeec3c67cab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bee2f11edf2f618f24ee3e714d39fe1448cf47")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuartosAlugados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuartosAlugados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
