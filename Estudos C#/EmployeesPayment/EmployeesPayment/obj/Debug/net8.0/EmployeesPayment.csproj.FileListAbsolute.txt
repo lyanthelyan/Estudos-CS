@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\bin\Debug\net8.0\EmployeesPayment.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\bin\Debug\net8.0\EmployeesPayment.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\bin\Debug\net8.0\EmployeesPayment.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\bin\Debug\net8.0\EmployeesPayment.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\bin\Debug\net8.0\EmployeesPayment.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\refint\EmployeesPayment.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\EmployeesPayment.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\EmployeesPayment\EmployeesPayment\obj\Debug\net8.0\ref\EmployeesPayment.dll
