@@ -25,7 +25,7 @@ internal class Program
         OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
         
         Order order = new Order(DateTime.Now, status, client);
-
+        //Teste
         Console.WriteLine("How many items to this order? ");
         int items = int.Parse(Console.ReadLine());
 
