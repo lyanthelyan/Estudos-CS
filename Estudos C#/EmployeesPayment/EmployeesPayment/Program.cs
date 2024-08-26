@@ -23,7 +23,7 @@ internal class Program
             double valuePerHour = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             if (ots == "y")
-            {
+            { 
                 Console.Write("Additional charge: ");
                 double additionalCharge = double.Parse(Console.ReadLine());
                 employees.Add(new OutsourcedEmployee(name, hours, valuePerHour, additionalCharge));
@@ -38,5 +38,6 @@ internal class Program
             Console.WriteLine($"{item.Name} - $ {item.Payment().ToString("F2", CultureInfo.InvariantCulture)}");
             
         }
+        //Teste github
     }
 }
