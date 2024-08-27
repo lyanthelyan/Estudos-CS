@@ -11,7 +11,7 @@
         {
             InterestRate = interestRate;
         }
-
+        
         public void UpdateBalance()
         {
             Balance += Balance * InterestRate;
