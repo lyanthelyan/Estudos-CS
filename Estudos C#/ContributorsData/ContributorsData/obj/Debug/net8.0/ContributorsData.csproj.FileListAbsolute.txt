@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\bin\Debug\net8.0\ContributorsData.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\bin\Debug\net8.0\ContributorsData.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\bin\Debug\net8.0\ContributorsData.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\bin\Debug\net8.0\ContributorsData.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\bin\Debug\net8.0\ContributorsData.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\refint\ContributorsData.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ContributorsData.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContributorsData\ContributorsData\obj\Debug\net8.0\ref\ContributorsData.dll

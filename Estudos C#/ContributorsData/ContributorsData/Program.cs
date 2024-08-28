@@ -1,4 +1,5 @@
 ﻿using ContributorsData.Entities;
+using System.Globalization;
 
 internal class Program
 {
@@ -11,6 +12,7 @@ internal class Program
 
         for (int i = 1; i < taxPayers+1; i++)
         {
+            Console.WriteLine($"Tax payer #{i} data:");
             Console.Write("Individual or company (i/c)? ");
             char ic = char.Parse(Console.ReadLine());
 
@@ -31,7 +33,22 @@ internal class Program
                 int numberOfEmployees = int.Parse(Console.ReadLine());
                 list.Add(new Company(name, anualIncome, numberOfEmployees));
             }
-
+            Console.WriteLine();
         }
+
+        Console.WriteLine("TAXES PAID:");
+        foreach (Contributors item in list)
+        {
+            Console.WriteLine($"{item.Name} $ {item.Tax().ToString("F2", CultureInfo.InvariantCulture)}");
+        }
+        Console.WriteLine();
+        double sum = 0;
+        foreach (Contributors item in list)
+        {
+            sum += item.Tax();
+            
+        }
+        Console.WriteLine($"TOTAL TAXES: $ {sum.ToString("F2", CultureInfo.InvariantCulture)}");
+
     }
 }
