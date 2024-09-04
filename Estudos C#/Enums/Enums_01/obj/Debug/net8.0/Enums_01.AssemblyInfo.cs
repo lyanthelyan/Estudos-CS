@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enums_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7bee2f11edf2f618f24ee3e714d39fe1448cf47")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d884be2f0d0022a6d9acf3d2e91c0372d173ab07")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enums_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enums_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

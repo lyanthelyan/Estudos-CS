@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\bin\Debug\net8.0\ArchivesManipulation.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\bin\Debug\net8.0\ArchivesManipulation.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\bin\Debug\net8.0\ArchivesManipulation.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\bin\Debug\net8.0\ArchivesManipulation.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\bin\Debug\net8.0\ArchivesManipulation.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\refint\ArchivesManipulation.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ArchivesManipulation.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchivesManipulation\ArchivesManipulation\obj\Debug\net8.0\ref\ArchivesManipulation.dll
