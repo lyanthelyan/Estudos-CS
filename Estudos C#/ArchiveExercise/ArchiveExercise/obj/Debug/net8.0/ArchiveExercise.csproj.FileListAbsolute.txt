@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\bin\Debug\net8.0\ArchiveExercise.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\bin\Debug\net8.0\ArchiveExercise.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\bin\Debug\net8.0\ArchiveExercise.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\bin\Debug\net8.0\ArchiveExercise.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\bin\Debug\net8.0\ArchiveExercise.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\refint\ArchiveExercise.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ArchiveExercise.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ArchiveExercise\ArchiveExercise\obj\Debug\net8.0\ref\ArchiveExercise.dll

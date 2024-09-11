@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShapeObject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d884be2f0d0022a6d9acf3d2e91c0372d173ab07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+223df49f78071573735692b60dc8b6239008c5ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShapeObject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShapeObject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
