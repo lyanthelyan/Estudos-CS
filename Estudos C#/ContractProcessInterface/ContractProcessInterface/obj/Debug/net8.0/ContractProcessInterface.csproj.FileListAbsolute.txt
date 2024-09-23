@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\bin\Debug\net8.0\ContractProcessInterface.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\bin\Debug\net8.0\ContractProcessInterface.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\bin\Debug\net8.0\ContractProcessInterface.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\bin\Debug\net8.0\ContractProcessInterface.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\bin\Debug\net8.0\ContractProcessInterface.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\refint\ContractProcessInterface.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ContractProcessInterface.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ContractProcessInterface\ContractProcessInterface\obj\Debug\net8.0\ref\ContractProcessInterface.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ContractProcessInterface/1.0.0": {
+        "runtime": {
+          "ContractProcessInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContractProcessInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
