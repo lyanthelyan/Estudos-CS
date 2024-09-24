@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GenericsRestrictions")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+809c99aef8761d6932075b2a94ec70ee44032eab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2302f75611d7806c55864196587d8759977f1b84")]
 [assembly: System.Reflection.AssemblyProductAttribute("GenericsRestrictions")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GenericsRestrictions")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

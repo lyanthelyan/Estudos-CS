@@ -16,7 +16,7 @@ internal class Program
         }
 
         s.Print();
-
+        
         Console.WriteLine("First: "+s.First());
         Console.WriteLine("Last: " + s.Last());
 

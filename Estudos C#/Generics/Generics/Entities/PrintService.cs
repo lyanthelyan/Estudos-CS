@@ -7,6 +7,8 @@ namespace Generics.Entities
        private  T[] _values = new T[10];
         private int _count = 0;
 
+        //Também podemos transformar apenas o método em genérico, sem mudar a classe toda
+        // public T AddValue<T>(T value) {}
         public void AddValue(T value)
         {
             if (_count == 10){ throw new InvalidOperationException("PrintService is Full"); }
