@@ -91,13 +91,13 @@ internal class Program
         //Implementando Equals e GetHashCode depois da comparação Console.WriteLine(a.Contains(prod)); Ter dado falso
         public override int GetHashCode()
         {
-            return Name.GetHashCode() + Price.GetHashCode();
+            return Name.GetHashCode() + Price.GetHashCode(); //Ao somar os dois valores, você gera um código de hash combinado que tenta representar as duas propriedades.
         }
 
         public override bool Equals(object obj)
         {
             if (!(obj is Product)){ return false; }
-            Product other = obj as Product;
+            Product other = obj as Product;//Neste caso, a verificação anterior garante que obj é um Log, então não precisamos nos preocupar com null aqui.
             return Name.Equals(other.Name) && Price.Equals(other.Price);
         }
     }
