@@ -90,7 +90,7 @@ internal class Program
         //Implementando Equals e GetHashCode depois da comparação Console.WriteLine(a.Contains(prod)); Ter dado falso
         public override int GetHashCode()
         {
-            return Name.GetHashCode() + Price.GetHashCode();
+            return Name.GetHashCode() + Price.GetHashCode(); //Ao somar os dois valores, você gera um código de hash combinado que tenta representar as duas propriedades.
         }
 
         public override bool Equals(object obj)
