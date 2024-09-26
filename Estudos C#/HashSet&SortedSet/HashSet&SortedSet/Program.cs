@@ -73,7 +73,8 @@ internal class Program
         //Mesmo sendo uma referencia diferente, o conteudo é igual
 
         Point p = new Point(5, 10);
-        Console.WriteLine(b.Contains(p));
+        Console.WriteLine(b.Contains(p)); // Mesmo não tendo implementado o getshashcode e equals ele deu true por que o tipo valor ja tem implementado dentro da classe
+        //E como struct é tipo valor e não referencia, a comparação foi para o conteudo e nao para a referencia dos objetos
 
     }
 
