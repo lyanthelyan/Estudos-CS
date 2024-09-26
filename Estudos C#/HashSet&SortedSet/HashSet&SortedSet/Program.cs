@@ -96,7 +96,7 @@ internal class Program
         public override bool Equals(object obj)
         {
             if (!(obj is Product)){ return false; }
-            Product other = obj as Product;
+            Product other = obj as Product;//Neste caso, a verificação anterior garante que obj é um Log, então não precisamos nos preocupar com null aqui.
             return Name.Equals(other.Name) && Price.Equals(other.Price);
         }
     }
