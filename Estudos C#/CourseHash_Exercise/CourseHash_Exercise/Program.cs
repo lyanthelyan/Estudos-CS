@@ -32,11 +32,5 @@ internal class Program
         }
 
         Console.WriteLine("Total students: " + students.Count());
-
-
-
-
-
-
     }
 }
