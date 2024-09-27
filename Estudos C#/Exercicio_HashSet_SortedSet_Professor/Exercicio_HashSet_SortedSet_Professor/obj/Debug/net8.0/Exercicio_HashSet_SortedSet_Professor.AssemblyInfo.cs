@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_HashSet_SortedSet_Professor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2aa19804607eb0ad54415d89d99314a3380a387")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f1e9e37cf6be6d6dff44f8974efd00355b4de8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_HashSet_SortedSet_Professor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_HashSet_SortedSet_Professor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

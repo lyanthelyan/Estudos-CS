@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\bin\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\bin\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\bin\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\bin\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\bin\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\refint\Exercicio_HashSet_SortedSet_Professor.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\Exercicio_HashSet_SortedSet_Professor.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Exercicio_HashSet_SortedSet_Professor\Exercicio_HashSet_SortedSet_Professor\obj\Debug\net8.0\ref\Exercicio_HashSet_SortedSet_Professor.dll
