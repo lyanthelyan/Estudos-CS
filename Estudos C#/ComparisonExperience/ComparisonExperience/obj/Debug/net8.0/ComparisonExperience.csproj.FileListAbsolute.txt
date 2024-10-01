@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\bin\Debug\net8.0\ComparisonExperience.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\bin\Debug\net8.0\ComparisonExperience.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\bin\Debug\net8.0\ComparisonExperience.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\bin\Debug\net8.0\ComparisonExperience.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\bin\Debug\net8.0\ComparisonExperience.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\refint\ComparisonExperience.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ComparisonExperience.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\ComparisonExperience\ComparisonExperience\obj\Debug\net8.0\ref\ComparisonExperience.dll
