@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\bin\Debug\net8.0\Caneta.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\bin\Debug\net8.0\Caneta.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\bin\Debug\net8.0\Caneta.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\bin\Debug\net8.0\Caneta.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\bin\Debug\net8.0\Caneta.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\refint\Caneta.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\Caneta.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Caneta\Caneta\obj\Debug\net8.0\ref\Caneta.dll

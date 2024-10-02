@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeesPayment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d884be2f0d0022a6d9acf3d2e91c0372d173ab07")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a0618db224a194cdcb485c17240d33ac2fcaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeesPayment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeesPayment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

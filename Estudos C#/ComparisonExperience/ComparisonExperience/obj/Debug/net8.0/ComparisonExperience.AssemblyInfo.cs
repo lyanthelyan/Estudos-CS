@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ComparisonExperience")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6c35eee83bffd3ca0e2ecf9cec0e72642abdb6f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a0618db224a194cdcb485c17240d33ac2fcaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ComparisonExperience")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ComparisonExperience")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

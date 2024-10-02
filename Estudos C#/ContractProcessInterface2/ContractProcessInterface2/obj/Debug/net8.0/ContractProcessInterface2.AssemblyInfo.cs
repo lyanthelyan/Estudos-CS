@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContractProcessInterface2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e1cd5889044fce0d6ef9183a2c47a69888a8379")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a0618db224a194cdcb485c17240d33ac2fcaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContractProcessInterface2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContractProcessInterface2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

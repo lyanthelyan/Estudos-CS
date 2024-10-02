@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourseHash_Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f939ef3537266aca8ff4fdfc247b71d23a2f65ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a0618db224a194cdcb485c17240d33ac2fcaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourseHash_Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourseHash_Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

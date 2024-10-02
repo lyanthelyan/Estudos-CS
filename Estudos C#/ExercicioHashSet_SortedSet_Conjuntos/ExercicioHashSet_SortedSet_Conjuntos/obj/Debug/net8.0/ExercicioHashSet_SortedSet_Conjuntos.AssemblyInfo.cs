@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExercicioHashSet_SortedSet_Conjuntos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2aa19804607eb0ad54415d89d99314a3380a387")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09a0618db224a194cdcb485c17240d33ac2fcaeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExercicioHashSet_SortedSet_Conjuntos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExercicioHashSet_SortedSet_Conjuntos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
