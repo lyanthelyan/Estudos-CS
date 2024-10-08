@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\bin\Debug\net8.0\LINQ_Exercises.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\bin\Debug\net8.0\LINQ_Exercises.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\bin\Debug\net8.0\LINQ_Exercises.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\bin\Debug\net8.0\LINQ_Exercises.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\bin\Debug\net8.0\LINQ_Exercises.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\refint\LINQ_Exercises.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\LINQ_Exercises.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_Exercises\LINQ_Exercises\obj\Debug\net8.0\ref\LINQ_Exercises.dll
