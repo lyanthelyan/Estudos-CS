@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\bin\Debug\net8.0\LINQ_EMPLOYEES.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\bin\Debug\net8.0\LINQ_EMPLOYEES.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\bin\Debug\net8.0\LINQ_EMPLOYEES.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\bin\Debug\net8.0\LINQ_EMPLOYEES.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\bin\Debug\net8.0\LINQ_EMPLOYEES.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\refint\LINQ_EMPLOYEES.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\LINQ_EMPLOYEES.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\LINQ_EMPLOYEES\LINQ_EMPLOYEES\obj\Debug\net8.0\ref\LINQ_EMPLOYEES.dll

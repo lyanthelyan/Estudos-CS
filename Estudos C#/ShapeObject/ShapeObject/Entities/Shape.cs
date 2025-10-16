@@ -12,6 +12,6 @@ namespace ShapeObject.Entities
             Color = color;
         }
 
-         public abstract  double Area();
+         public abstract double Area();
     }
 }
