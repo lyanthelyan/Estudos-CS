@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\T-GAMER\\source\\repos\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj": {}
+    "C:\\Users\\T-GAMER\\source\\repos\\NewRepo\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\T-GAMER\\source\\repos\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj": {
+    "C:\\Users\\T-GAMER\\source\\repos\\NewRepo\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\T-GAMER\\source\\repos\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj",
+        "projectUniqueName": "C:\\Users\\T-GAMER\\source\\repos\\NewRepo\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj",
         "projectName": "Empregados",
-        "projectPath": "C:\\Users\\T-GAMER\\source\\repos\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj",
+        "projectPath": "C:\\Users\\T-GAMER\\source\\repos\\NewRepo\\Estudos C#\\Empregados\\Empregados\\Empregados.csproj",
         "packagesPath": "C:\\Users\\T-GAMER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\T-GAMER\\source\\repos\\Estudos C#\\Empregados\\Empregados\\obj\\",
+        "outputPath": "C:\\Users\\T-GAMER\\source\\repos\\NewRepo\\Estudos C#\\Empregados\\Empregados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
