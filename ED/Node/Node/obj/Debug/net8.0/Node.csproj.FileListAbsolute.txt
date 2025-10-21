@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\bin\Debug\net8.0\Node.exe
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\bin\Debug\net8.0\Node.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\bin\Debug\net8.0\Node.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\bin\Debug\net8.0\Node.dll
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\bin\Debug\net8.0\Node.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.dll
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\refint\Node.dll
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\Node.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\ED\Node\Node\obj\Debug\net8.0\ref\Node.dll

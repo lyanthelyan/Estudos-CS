@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\bin\Debug\net8.0\DelegPredicActionFunc.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\bin\Debug\net8.0\DelegPredicActionFunc.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\bin\Debug\net8.0\DelegPredicActionFunc.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\bin\Debug\net8.0\DelegPredicActionFunc.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\bin\Debug\net8.0\DelegPredicActionFunc.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\refint\DelegPredicActionFunc.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\DelegPredicActionFunc.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\DelegPredicActionFunc\DelegPredicActionFunc\DelegPredicActionFunc\obj\Debug\net8.0\ref\DelegPredicActionFunc.dll

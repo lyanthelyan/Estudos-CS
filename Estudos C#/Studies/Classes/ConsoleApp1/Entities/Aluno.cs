@@ -1,7 +1,7 @@
 ﻿
 namespace ConsoleApp1.Entities
 {
-    internal class Aluno : Pessoa
+    internal class Aluno : Pessoa, IBonificavel
     {
         public double Nota { get; set; }
 
@@ -22,12 +22,21 @@ namespace ConsoleApp1.Entities
 
         public override string ToString()
         {
-            return $"Nome: {Name}\nIdade: {Idade}\nNota:{Nota}";
+            return $"Nome: {Name}\nIdade: {Idade}\nNota:{Nota}\n";
         }
 
         public override void DefinirNota(double nota)
         {
             Nota = nota;
+        }
+
+        public override void CalcularBonus()
+        {
+            Nota += 1;
+        }
+        public void CalcularBonusInterface()
+        {
+            Nota = Nota + 1; // exemplo: aplica bônus de 1 ponto
         }
     }
 }

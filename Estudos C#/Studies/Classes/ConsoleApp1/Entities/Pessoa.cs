@@ -1,7 +1,7 @@
 ﻿
 namespace ConsoleApp1.Entities
 {
-    internal class Pessoa
+    internal abstract class Pessoa
     {
         public string Name { get; set; }
         public int Idade { get; set; }
@@ -20,6 +20,8 @@ namespace ConsoleApp1.Entities
         }
 
         public virtual void DefinirNota(double nota){}
+
+        public abstract void CalcularBonus();
         
     }
 }

@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\bin\Debug\net8.0\ListsManipulation.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\bin\Debug\net8.0\ListsManipulation.deps.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\bin\Debug\net8.0\ListsManipulation.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\bin\Debug\net8.0\ListsManipulation.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\bin\Debug\net8.0\ListsManipulation.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.sourcelink.json
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\refint\ListsManipulation.dll
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ListsManipulation.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Studies\ListsManipulation\ListsManipulation\ListsManipulation\obj\Debug\net8.0\ref\ListsManipulation.dll

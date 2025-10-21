@@ -9,10 +9,17 @@ namespace ConsoleApp1.Entities
         {
         }
 
-        public Professor(string name, int idade) : base(name, idade)
+        public Professor(string name, int idade, double salario) : base(name, idade)
         {
             Name = name;
             Idade = idade;
+            Salario = salario;
+        }
+
+        public override string ToString()
+        {
+            return $"Nome: {Name}\nIdade: {Idade}\nSalario:{Salario}\n";
+            
         }
 
         public override void CalcularBonus()
@@ -22,7 +29,7 @@ namespace ConsoleApp1.Entities
 
         public void CalcularBonusInterface()
         {
-            Salario += 1; // exemplo: aplica bônus de 1 ponto
+            Salario += 500; // exemplo: aplica bônus de 1 ponto
         }
 
     }
