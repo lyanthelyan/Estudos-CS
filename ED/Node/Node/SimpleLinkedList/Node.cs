@@ -1,9 +1,9 @@
 ﻿
-namespace Node.Entities
+namespace Node.SimpleLinkedList
 {
     internal class Node<T>
     {
-        public T Value;
+        public T Data { get; set; }
         public Node<T> Next { get; set; }
     }
 }

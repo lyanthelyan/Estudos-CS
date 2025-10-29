@@ -1,21 +1,24 @@
-﻿
-using Node.Entities;
+﻿using Node.StackList;
+using Node.DoublyLinkedList;
+using Node.SimpleLinkedList;
+
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        LinkedLists<int> linkedLists = new LinkedLists<int>();
-        linkedLists.AdicionarNoFim(10);
-        linkedLists.AdicionarNoFim(5);
-        linkedLists.AdicionarNoFim(20);
+        SimpleLinkedList<int> linkedList = new SimpleLinkedList<int>();
+        DoublyLinkedList<int> doublyLinkedList = new DoublyLinkedList<int>();
 
-        linkedLists.Exibir();
+        StackList<int> stack = new StackList<int>();
 
-        Console.WriteLine("------------------------------");
-        linkedLists.Remover(5);
 
-        linkedLists.Exibir();
+        stack.Push(1);
+        stack.Push(3);
+        Console.WriteLine(stack.Peek());
+
+
+
 
 
     }
