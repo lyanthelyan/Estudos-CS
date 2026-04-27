@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DelegPredicActionFunc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dddfdc93409aa79d00450759ae6a37f42f18f4e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+affd2d0b81cbf3e79f0fbc282fc5c9a166ebb503")]
 [assembly: System.Reflection.AssemblyProductAttribute("DelegPredicActionFunc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DelegPredicActionFunc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

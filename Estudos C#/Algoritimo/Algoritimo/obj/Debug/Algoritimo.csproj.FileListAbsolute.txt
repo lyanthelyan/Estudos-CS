@@ -1,0 +1,7 @@
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\bin\Debug\Algoritimo.exe.config
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\bin\Debug\Algoritimo.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\bin\Debug\Algoritimo.pdb
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\obj\Debug\Algoritimo.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\obj\Debug\Algoritimo.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\obj\Debug\Algoritimo.exe
+C:\Users\T-GAMER\source\repos\NewRepo\Estudos C#\Algoritimo\Algoritimo\obj\Debug\Algoritimo.pdb
